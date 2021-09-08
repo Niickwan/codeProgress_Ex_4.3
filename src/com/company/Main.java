@@ -16,7 +16,6 @@ public class Main {
         System.out.println(".");                // 10 - 19 - 29
     }                                           // 11 - 20 - 30
 
-
     public static void main(String[] args) {    // 1
         System.out.print("No, I ");             // 2
         zoop();                                 // 3
